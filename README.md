@@ -15,4 +15,3 @@ This repository is used to record media technology records as we march forward. 
 * WeChat: jiheng_yang
 * Discord: https://discord.gg/hgwZHpcK
 * Email: jiheng.yang@gmail.com
-

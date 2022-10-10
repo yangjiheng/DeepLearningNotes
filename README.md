@@ -11,8 +11,8 @@
    * Normal Equations: Great explanation and proof: http://mlwiki.org/index.php/Normal_Equation
 
 ## Applications
-    * Stable diffusion
-      * A great sample with stable diffusion training: https://lambdalabs.com/blog/how-to-fine-tune-stable-diffusion-how-we-made-the-text-to-pokemon-model-at-lambda/
+### Stable diffusion
+  * A great sample with stable diffusion training: https://lambdalabs.com/blog/how-to-fine-tune-stable-diffusion-how-we-made-the-text-to-pokemon-model-at-lambda/
 
 # About This Repository
 

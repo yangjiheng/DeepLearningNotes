@@ -4,6 +4,7 @@
 - **[Math Background](#math-background)**
     - **[Linear Algebra](#linear-algebra)**
 - **[Applications](#applications)**
+    - **[Stable Diffusion](#stable-diffusion)**
 
 ## Math Background
 ### Linear Algebra
